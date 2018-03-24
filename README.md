@@ -1,5 +1,5 @@
 # Live2d的看板娘——蕾姆(Rem) 
-#### [伊斯特瓦尔点这里](https://gitee.com/eeg1412/Live2dHistoire)。
+#### [伊斯特瓦尔点这里](https://www.wikimoe.com/?post=76)。
 #### 基于[《给博客添加能动的看板娘(Live2D)-将其添加到网页上吧》](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02)上的源码进行修改。
 #### 在原先的基础上加上了如下功能：
 
